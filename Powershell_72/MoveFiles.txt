@@ -1,0 +1,3 @@
+Move-Item -Path "first_.txt" -Destination "ARPAPS"
+Move-Item -Path "second_.txt" -Destination "ARPAPS"
+Move-Item -Path "third_.txt" -Destination "ARPAPS"
